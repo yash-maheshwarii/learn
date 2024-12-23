@@ -1,7 +1,11 @@
 #include<iostream>
 using namespace std;
 
+<<<<<<< HEAD
 quick sort()
+=======
+bubblesort
+>>>>>>> bubblesort
 
 int main()
 {
