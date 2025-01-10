@@ -7,6 +7,8 @@ quick sort()
 bubblesort
 >>>>>>> bubblesort
 
+naya change hai
+
 int main()
 {
 	cout<<"Hello World"<<endl;
